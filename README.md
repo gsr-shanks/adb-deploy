@@ -1,2 +1,2 @@
-# adb-ansible
+# adb-deploy
 Ansible playbooks to deploy Atomic Development Bundle
